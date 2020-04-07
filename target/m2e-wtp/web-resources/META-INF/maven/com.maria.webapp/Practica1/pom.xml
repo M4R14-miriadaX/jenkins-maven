@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.maria.webapp</groupId>
-	<artifactId>webDeMaria</artifactId>
+	<artifactId>Practica1</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>webDeMaria Maven Webapp</name>
+	<name>Practica1 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -23,7 +23,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>webDeMaria</finalName>
+		<finalName>Practica1</finalName>
 		<plugins>
 			<!-- https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat7-maven-plugin -->
 			<plugin>
